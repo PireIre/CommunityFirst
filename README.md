@@ -28,15 +28,30 @@ Below I will list different technologies and libraries used:
 
 ## Project Pages
 - Homepage (presentation of what CommunityFirst is about)
+![](Screenshot%202020-05-21%20at%2010.16.10.png)
+
 - About Page (presentation of Developers and website as a project)
+![](Screenshot%202020-05-21%20at%2010.16.26.png)
+
 - Covid tracker page (with country selection for latest fetched information regarding COVID represented in graphs)
+![](Screenshot%202020-05-21%20at%2010.16.44.png)
+
 - Register Page
 - Login Page
+
 - Community Selection Page (Before entering, user is required to pick a community he/she wants to browse posts)
+![](Screenshot%202020-05-21%20at%2010.16.56.png)
+
 - Items Page (User can post and seee other posts about physical items. User can either request or offer an item)
 - Servivces Page (User can post and seee other posts about services. User can either request or offer help)
+![](Screenshot%202020-05-21%20at%2010.17.11.png)
+
 - My Post Page (User sees all his/her posts and has ability to edit and delete them)
+![](Screenshot%202020-05-21%20at%2010.18.18.png)
+
 - Post Detail Page (User can see entire post and fetch contact information of the person who posted it)
+![](Screenshot%202020-05-21%20at%2010.17.28.png)
+
 - EXTRA FUNCITIONALITY: Search
 
 ## Backlog items never saw the life of day
