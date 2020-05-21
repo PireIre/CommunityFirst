@@ -77,3 +77,9 @@ This project recieved two out of four awards at the SDA final day award ceremony
 - Pallavi Thanikonda
 - Saloumi Ghabbour
 - Sadia Chaudhary
+
+## Communication
+
+We worked in Scrum methodology during Corona outbreak. Therefore, we all worked remotely. Our communication channels were mainly Slack and Trello
+
+![](Screenshot%202020-05-21%20at%2011.31.02.png)
